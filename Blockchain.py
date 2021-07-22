@@ -1,4 +1,4 @@
-import hashlib import sha256
+import hashlib
 import json
 from time import time
 
